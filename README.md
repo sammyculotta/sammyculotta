@@ -1,4 +1,4 @@
-Hi, I'm Sammy
+Hi, I'm Sammy!
 
 I'm an undergraduate physics student at Arizona State University, expecting to graduate in May 2027.
 
@@ -11,4 +11,5 @@ I'm preparing to pursue a PhD in Physics beginning Fall 2027, with interests in 
 My goal is to combine computational methods with experimental research to investigate complex physical systems and contribute to the development of practical scientific technologies.
 
 Location: Honolulu, Hawaiʻi
+
 Contact: msculott@asu.edu
