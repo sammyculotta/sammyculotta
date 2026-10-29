@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Sammy
 
-<!--
-**sammyculotta/sammyculotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate physics student at Arizona State University, expecting to graduate in May 2027.
 
-Here are some ideas to get you started:
+My research interests lie at the intersection of computational and experimental physics. I'm currently involved in astroparticle physics research at the University of Hawaiʻi at Mānoa, studying cosmic-ray propagation and gamma-ray emission using numerical simulations and observational data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Interests
+
+I'm preparing to pursue a PhD in Physics beginning Fall 2027, with interests in plasma physics, fusion energy, accelerator physics, and computational modeling.
+
+My goal is to combine computational methods with experimental research to investigate complex physical systems and contribute to the development of practical scientific technologies.
+
+Location: Honolulu, Hawaiʻi
+Contact: msculott@asu.edu
